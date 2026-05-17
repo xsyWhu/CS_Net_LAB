@@ -1,0 +1,11 @@
+out/
+tmp/
+logs/
+tools/__pycache__/
+javac.*.args
+
+# Development FTP server runtime files.
+ftp-root/*
+
+# Build artifact. Regenerate with ./scripts/package.sh.
+dist/
